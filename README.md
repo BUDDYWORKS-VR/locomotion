@@ -54,7 +54,7 @@ Rude, you will find out soon enough.
 
 ## Addendum
 
-Thank you to everyone who supported me and follows the project, I have a lot of fun challenging myself to learn new and interesting things. I have a couple of overambitious ideas I would like to work on.
+Thank you to everyone who supported me and follows my work, I have a lot of fun challenging myself to learn new and interesting things. I have a couple of overambitious ideas I would like to work on.
 
 Shoutouts go out to all those who make creation a joy, providing useful tools and fixing the SDK's and Unitys various shortcomings. Your stuff is invaluable and I couldn't work without them. Special shoutout to Dreadrith, his tools are a necessity in my toolchain and so should they be in yours.
 
