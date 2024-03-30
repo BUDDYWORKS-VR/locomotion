@@ -62,4 +62,4 @@ Of course also a big heartfelt thank you to all those I have the honor to call m
 
 And a big shoutout to you reading this mess, I hope all this got a kek out of you. <3
 
-- Buddy
+-Buddy
