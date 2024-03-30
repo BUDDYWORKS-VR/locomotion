@@ -7,10 +7,10 @@ on:
     paths: package.json
 
 env:
-  packageName: "wtf.buddyworks.PACKAGE"
-  packagePath: "Packages/wtf.buddyworks.PACKAGE"
-  packageFileName: "BUDDYWORKS_"
-  packageReleaseName: "BUDDYWORKS "
+  packageName: "wtf.buddyworks.locomotion"
+  packagePath: "Packages/wtf.buddyworks.locomotion"
+  packageFileName: "BUDDYWORKS_Locomotion"
+  packageReleaseName: "BUDDYWORKS Locomotion"
 
 permissions:
   contents: write

@@ -1,3 +1,4 @@
 <a href="https://buddyworks.wtf"><img width=50% src="https://splash.buddyworks.wtf/tckAqsHD.png"></img></a>  
-# VPM Package Template
-A template for any new package releases that are supposed to interface with the VPM Listing.
+# BUDDYWORKS Locomotion "C0p1um Edition"
+The pinnacle of inventions, BUDDYWORKS proudly presents: **BUDDYWORKS LOCOMOTION!**
+It's real, you just have to really look for it.
