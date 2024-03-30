@@ -50,7 +50,7 @@ Rude, you will find out soon enough.
 - "Finally, I can stare at the reflection of my reflection: An infinite loop!"
 - "I was thinking: How could this get any better? Then I stood up while still lying down! Mind bending!"
 - "There was someone randomly peeking through the window in my private instance, that funky locomotion system certainly works but that is kinda off."
-- "I always wondered if you could wait faster, with this locomotion system, I can!"
+- "I always wondered if you could wait faster... With this locomotion system, I can!"
 
 ## Addendum
 
