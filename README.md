@@ -39,7 +39,7 @@ Take advantage of the latest and greatest RTX-Technology for a perfect reflectio
 **Narcissism taken to the next level!**
 
 ### And so much more!
-You think this kind of paragraph is just a marketing filler to imply there isn't more but lets make it sound like that?  
+You think this kind of paragraph is just a marketing filler to imply there is more even when there is not?
 Rude, you will find out soon enough.
 
 **Beyond the limits!**
